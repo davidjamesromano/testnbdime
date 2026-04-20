@@ -6,4 +6,4 @@ Step 2:
 ```bash
 nbdime config-git --enable
 ```
-Trying out a nonlocal version. use `--gloabl`` in the command above to set globally.
+Trying out a nonlocal version. use `--global`` in the command above to set globally.
