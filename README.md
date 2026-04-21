@@ -6,7 +6,7 @@ Step 2:
 ```bash
 nbdime config-git --enable
 ```
-Trying out a nonlocal version. use `--global`` in the command above to set globally.
+Trying out a nonlocal version. use `--global` in the command above to set globally.
 
 For push authorization one needs
 a) being added as a collaborator to the respective github repository
