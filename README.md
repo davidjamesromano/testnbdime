@@ -19,6 +19,5 @@ Trying out a nonlocal version. use `--global` in the command above to set global
 
 For push authorization one needs
 a) being added as a collaborator to the respective github repository
-b) a (personal authentification token)  PAT set up on github:
-https://github.com/settings/personal-access-tokens
-c) use the PAT as password for the first git push
+b) an ssh login for github, following the instructions:
+   https://github.com/Weber-Group/How-To-Git-SLAC
